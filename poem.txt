@@ -3,7 +3,7 @@ Rainbow Poem by Pete Paulusma
 Yellow
 Green
 Purple
-Orange
+Orangered
 Blue
 
 The End
